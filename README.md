@@ -1,7 +1,7 @@
 # OpenClaw Cost Tracker
 
 [![ClawHub](https://img.shields.io/badge/ClawHub-openclaw--cost--tracker-blue)](https://clawhub.ai/pfrederiksen/openclaw-cost-tracker)
-[![Version](https://img.shields.io/badge/version-1.0.0-green)]()
+[![Version](https://img.shields.io/badge/version-1.1.1-green)]()
 
 An [OpenClaw](https://openclaw.ai) skill that parses session JSONL files to compute per-model token usage, costs, and daily spend trends. No API keys needed — reads directly from local session files.
 
