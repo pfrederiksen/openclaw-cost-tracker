@@ -68,3 +68,7 @@ MIT
 - [ClawHub](https://clawhub.ai/pfrederiksen/openclaw-cost-tracker)
 - [OpenClaw](https://openclaw.ai)
 - [Full source](scripts/cost_tracker.py)
+
+## Download History
+
+[![Download History](https://skill-history.com/chart/pfrederiksen/openclaw-cost-tracker.svg)](https://skill-history.com/pfrederiksen/openclaw-cost-tracker)
